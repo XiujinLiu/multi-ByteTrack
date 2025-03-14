@@ -1,4 +1,5 @@
-# ByteTrack-CPP-ncnn
+# This is a revised version of ByteTrack-CPP-ncnn (https://github.com/ifzhang/ByteTrack)
+The main functionality  revision is to change ByteTrack from single-class detection to multi_class detection
 
 ## Installation
 

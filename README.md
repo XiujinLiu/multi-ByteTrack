@@ -1,6 +1,6 @@
 # multi-ByteTrack
 # # This is a revised version of ByteTrack-CPP-ncnn (https://github.com/ifzhang/ByteTrack)
-The main functionality revision is to change ByteTrack from single-class detection to multi_class detection.//
+The main functionality revision is to change ByteTrack from single-class detection to multi_class detection.\\
 The main code revisions are in /deploy/ncnn/cpp/
 
 # The followings are the original contexts
